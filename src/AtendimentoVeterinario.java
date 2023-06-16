@@ -1,0 +1,3 @@
+interface AtendimentoVeterinario {
+    void realizarAtendimento();
+}
